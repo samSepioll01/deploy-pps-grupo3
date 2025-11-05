@@ -69,8 +69,8 @@ deploy-pps/
 ### 1️⃣ Clonar el repositorio
 
 ```bash
-git clone git@github.com:samSepioll01/deploy-pps-grupo3.git
-cd deploy-pps-grupo3
+git clone git@github.com:samSepioll01/deploy-pps.git
+cd deploy-pps
 ````
 
 ### 2️⃣ Construir y levantar los contenedores
@@ -162,7 +162,7 @@ curl -X DELETE http://localhost:8001/api/items/5
 
 ### 👨‍💻 Autores
 
-Grupo 3 — Asignatura: Puesta en Producción Segura
+Asignatura: Puesta en Producción Segura
 IES Rafael Alberti (Cádiz) — Curso 2025
 
 API Laravel — desarrollada en PHP (Laravel 11)
