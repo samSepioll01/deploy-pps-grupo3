@@ -1,4 +1,4 @@
-# 🐳 Puesta en Producción Segura — Grupo 3  
+# 🐳 Puesta en Producción Segura
 ### Despliegue de arquitecturas web con Docker y APIs Laravel / .NET
 
 ---
@@ -8,7 +8,7 @@
 Este proyecto forma parte de la asignatura **“Puesta en Producción Segura”**, perteneciente al *Curso de Especialización en Ciberseguridad en las Tecnologías de la Información (IES Rafael Alberti, Cádiz)*.
 
 El trabajo consiste en el **despliegue seguro de arquitecturas web con Docker**, mediante la implementación de distintas **APIs REST básicas** usando varios frameworks.  
-En este repositorio se incluyen las APIs desarrolladas por el **Grupo 3** correspondientes a los frameworks:
+En este repositorio se incluyen las APIs correspondientes a los frameworks:
 
 - **Laravel (PHP 8.3)**  
 - **.NET 8 (Minimal API)**  
