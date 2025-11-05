@@ -33,7 +33,7 @@ Para ejecutar este proyecto se necesita:
 ## 🧱 Estructura del proyecto
 
 ```plaintext
-deploy-pps-grupo3/
+deploy-pps/
 ├── docker-compose.yml          # Orquesta ambos contenedores
 ├── .gitignore
 ├── README.md
